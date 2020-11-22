@@ -1,0 +1,2 @@
+# colgateVScrest
+El objetivo es predecir las 16 semanas del año 1963, para las dos cuotas de mercado, por lo que se dejará fuera de la muestra este periodo muestral.  El análisis debe incluir para las dos series la estimación de un modelo ARIMA, la detección de atípicos/outlier y un modelo de interveción. Por último se debe realizar un modelo de función de tranferencia entre las dos cuotas.  El resultado debe ser un informe que no supere las 10 páginas. Se entregará un html y los archivos rmd auxiliares. Pensad que el director de marketing solo va a leer el informe.
